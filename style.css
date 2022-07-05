@@ -6,7 +6,7 @@ h1 {
     font-size: 50px;
 }
 
-section {
+.section-1 {
     background-image: url(donate-today/images/donation13.jpg);
     background-repeat: no-repeat;
     color: white;
@@ -27,4 +27,118 @@ section {
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+.section-2 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.taka1 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+
+}
+
+.taka2 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+
+.taka3 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+
+.taka4 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+}
+
+.taka5 {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    font-weight: 700;
+
+
+}
+
+.div-4 {
+    justify-content: center;
+    display: flex;
+    margin-top: 70px;
+    padding-bottom: 10px;
+}
+
+.design {
+    height: 20px;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: rgb(241, 229, 229);
+    margin-right: 30px;
+    border: 1px solid rgb(206, 124, 124);
+    font-weight: 700;
+
+}
+
+.div-5 {
+    padding-top: 50px;
+}
+
+.input-class {
+    text-align: center;
+    width: 50%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
+
+.div6 {
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+.donate-now {
+    text-decoration: none;
+    background-image: linear-gradient(pink, red);
+    color: white;
+    padding: 15px 40px;
+    font-weight: 700;
+    border-radius: 5px;
 }
