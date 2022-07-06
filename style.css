@@ -273,6 +273,21 @@ h1 {
 .input-class1 {
     text-align: left;
     height: 30px;
+    width: 20%;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    padding-left: 20px;
+}
+
+.input-class2 {
+    height: 36px;
+    margin-left: -5px;
+    width: 120px;
+    background-image: linear-gradient(blue, red);
+    color: white;
+    font-weight: 700;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
 }
 
 .updates {
@@ -281,10 +296,41 @@ h1 {
     padding: 100px;
 }
 
-.padding1 {
+.updates1 {
     padding-top: 100px;
 }
 
 .updates2 {
-    padding-top: 100px;
+    padding-top: 50px;
+    background-color: rgb(205, 230, 221);
+    height: 90px;
+
+
+
+}
+
+.section-6 {
+    margin-bottom: 60px;
+}
+
+.section-7 {
+    background-color: rgb(34, 32, 32);
+    text-align: center;
+    color: white;
+
+}
+
+.header {
+    color: rgb(179, 114, 114);
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.paragraph {
+    font-size: 15px;
+}
+
+.footer {
+    padding-top: 4px;
+    padding-bottom: 5px;
 }
